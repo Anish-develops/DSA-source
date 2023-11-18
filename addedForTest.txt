@@ -1,5 +1,3 @@
 this file is a sample file pls ignore it as it is
-added this second file to see the change the history and observe it
-adding new line in new branch to see the effects
-
+deleted and added some new lines 
 
