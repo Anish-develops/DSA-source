@@ -1,5 +1,2 @@
-this file is a sample file pls ignore it as it is
-added this second file to see the change the history and observe it
-adding new line in new branch to see the effects
-
-
+going to change whole code base metaphorically
+so this is now the new linese i want to add
